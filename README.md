@@ -14,7 +14,7 @@ We can make an awesome list of doge resources here like [awesome-awesomeness](ht
 
 ### How to help ?
 
-Star this project in order to gain more visibility :rocket:
+Star this project in order for it, to gain more visibility :rocket:
 
 Or make a PR to improve the idea
 
