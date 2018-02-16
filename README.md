@@ -53,7 +53,6 @@ _________________
 [DogeDoor](http://www.dogedoor.net)
 
 #### Faucets
-[Indogewetrust](http://indogewetrust.com)
 [Dogefaucet](http://www.dogefaucet.com)
 [DogeForFree](http://dogeforfree.fnhost.org)
 [MoonDoge](http://moondoge.co.in)
