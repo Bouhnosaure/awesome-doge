@@ -71,6 +71,8 @@ _________________
 
 #### Bots
 
+[Reddit Tip Bot](https://github.com/just-an-dev/sodogetip)
+[Discord Tip Bot](https://github.com/greenbigfrog/discordtipbot)
 [IRC Bot](https://github.com/mniip/Doger)
 
 #### Development
