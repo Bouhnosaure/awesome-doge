@@ -4,7 +4,7 @@ This is the year of the doge !
 
 We need to spread our love, our kindness for our community 
 
-Our goal is the moon :full_moon: but for now They here on github so let's make this repo full of stars ⭐️ and trending on all the website so we can shine everywhere
+Our goal is the moon :full_moon: we're here on github so let's make this repo full of stars ⭐️ and trending on all the website so we can shine everywhere
 
 <img src="https://raw.githubusercontent.com/Bouhnosaure/octo_doge/master/octo_doge.png" width="400">
 
