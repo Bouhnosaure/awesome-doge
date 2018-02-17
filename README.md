@@ -76,6 +76,12 @@ _________________
 - [Doge Assets](https://github.com/drjdaverth/doge_assets)
 - [Coinomi crypto-icons](https://github.com/Coinomi/crypto-icons)
 
+#### Documents
+- [What is Dogecoin? (video)](https://youtu.be/_KVZmS_UO5I)
+- [EN - What is Dogecoin and why use it ?](https://www.docdroid.net/1294p/leaflet.pdf)
+- [DE - What is Dogecoin and why use it ?](https://www.docdroid.net/12dbe/leaflet-german.pdf)
+- [CN - What is Dogecoin and why use it ?](https://www.docdroid.net/1294i/leaflet-chinese.pdf)
+
 #### Tutorials
 - [Dogecoin Testnet](https://github.com/Dirrot/dogecoin-testnet)
 - [Repost - How to accept Dogecoin with your business, and why. A few pointers](https://www.reddit.com/r/dogecoin/comments/2kg0bd/repost_how_to_accept_dogecoin_with_your_business/)
