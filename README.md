@@ -30,14 +30,15 @@ _________________
 [Walletgenerator](https://walletgenerator.net/?currency=Dogecoin)
 [Dogecoin Paper Wallet Generator](http://dogecoinpaperwallet.net)
 
+#### Prices trackers
+[CryptoPriceWidget](https://github.com/nathanp/crypto-price-widget)
+[shibesorg-dogecoin-tracker](https://chrome.google.com/webstore/detail/shibesorg-dogecoin-tracke/jedodbnokihgeijikkcneiklbcoiaijb)
 
 #### REST APIs
-
 [Dogechain API](https://dogechain.info/api)
 [SoChain](http://chain.so)
 
 #### Exchanges
-
 [Gate](https://gate.io/trade/doge_btc)
 [Poloniex](https://poloniex.com/exchange#btc_doge)
 [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-DOGE)
@@ -45,11 +46,9 @@ _________________
 [CoinExchange](https://www.coinexchange.io/market/DOGE/BTC)
 
 #### Trading Posts
-
 [Dogemarket](http://www.reddit.com/r/dogemarket)
 
 #### Directories
-
 [DogeDoor](http://www.dogedoor.net)
 
 #### Faucets
@@ -59,43 +58,33 @@ _________________
 [Mydoge](http://mydoge.co.in)
 
 #### Games
-
 [DogeMiner](https://dogeminer.se)
 [DogeMiner2](https://dogeminer2.com)
 [DogeCoinLottery](http://www.reddit.com/r/DogeCoinLottery)
 
-#### Browsers
-
-[shibesorg-dogecoin-tracker](https://chrome.google.com/webstore/detail/shibesorg-dogecoin-tracke/jedodbnokihgeijikkcneiklbcoiaijb)
-
 #### Bots
-
 [Reddit Tip Bot](https://github.com/just-an-dev/sodogetip)
 [Discord Tip Bot](https://github.com/greenbigfrog/discordtipbot)
 [IRC Bot](https://github.com/mniip/Doger)
+[Twitter Tip Bot WIP](https://github.com/shibesorg/twitter-dogetiprobot)
 
 #### Development
-
 [django-cc](https://github.com/limpbrains/django-cc)
 [node-dogecoin](https://github.com/countable/node-dogecoin)
 
 #### Design
-
 [Doge Assets](https://github.com/drjdaverth/doge_assets)
 [Coinomi crypto-icons](https://github.com/Coinomi/crypto-icons)
 
 #### Tutorials
-
 [Dogecoin Testnet](https://github.com/Dirrot/dogecoin-testnet)
 
 #### Community
-
 [/r/dogecoin](https://www.reddit.com/r/dogecoin/)
 [/r/dogecoindev](https://www.reddit.com/r/dogecoindev/)
 [/r/dogeducation](https://www.reddit.com/r/dogeducation/)
 
 ### Contributing
-
 Star this project in order for it, to gain more visibility :rocket:
 
 Also you can make a PR in order to change anything like the image or add links for instance !
