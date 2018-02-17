@@ -96,6 +96,8 @@ Star this project in order for it, to gain more visibility :rocket:
 
 Also you can make a PR in order to change anything like the image or add links for instance !
 
+You can also come on the discord server [awesome-dogecoin](https://discord.gg/gujeXuG) and talk or provide links :)
+
 ### Credits
 Image : [Dribbble](https://dribbble.com/shots/1724494-Shiba-Inu)
 
