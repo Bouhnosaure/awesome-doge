@@ -71,6 +71,8 @@ _________________
 #### Development
 - [django-cc](https://github.com/limpbrains/django-cc)
 - [node-dogecoin](https://github.com/countable/node-dogecoin)
+- [cryptocoinjs](http://cryptocoinjs.com)
+- [ccxt](https://github.com/ccxt/ccxt)
 
 #### Design
 - [Doge Assets](https://github.com/drjdaverth/doge_assets)
