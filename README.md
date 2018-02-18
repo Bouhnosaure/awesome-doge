@@ -73,6 +73,7 @@ _________________
 - [node-dogecoin](https://github.com/countable/node-dogecoin)
 - [cryptocoinjs](http://cryptocoinjs.com)
 - [ccxt](https://github.com/ccxt/ccxt)
+- [libdohj](https://github.com/dogecoin/libdohj)
 
 #### Design
 - [Doge Assets](https://github.com/drjdaverth/doge_assets)
