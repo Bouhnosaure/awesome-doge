@@ -16,9 +16,7 @@ _________________
 
 #### Desktop clients
 - [Dogecoin Core](https://github.com/dogecoin/dogecoin) is the official Dogecoin wallet mantained by the Dogecoin foundation. It's the full Dogecoin client and therefore takes up a lot of space as it downloads the full blockchain. if you want to setup it quickly follow this quick tutorial on reddit [Dogecoin bootstrap.dat Torrent](https://www.reddit.com/r/dogecoin/comments/7p6f2m/dogecoin_bootstrapdat_torrent)
-
-#### Light wallets
-- [Multidoge](http://multidoge.org)
+- [Multidoge](http://multidoge.org) is a desktop Dogecoin client, powered by dogecoinj. Ported from the MultiBit Bitcoin client.
 
 #### Mobile wallets
 - [Android wallet](https://play.google.com/store/apps/details?id=de.langerhans.wallet)
