@@ -42,6 +42,9 @@ _________________
 - [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-DOGE)
 - [HitBTC](https://hitbtc.com/DOGE-to-BTC)
 - [CoinExchange](https://www.coinexchange.io/market/DOGE/BTC)
+- [Exmo](https://exmo.com/en/trade#?pair=DOGE_BTC)
+- [Yobit](https://yobit.net/en/trade/DOGE/BTC)
+- [Changelly](https://changelly.com)
 
 #### Trading Posts
 - [Dogemarket](http://www.reddit.com/r/dogemarket)
